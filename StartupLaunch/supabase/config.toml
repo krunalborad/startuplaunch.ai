@@ -1,0 +1,7 @@
+project_id = "nbogjafitnbsiwaeaobp"
+
+[functions.validate-idea]
+verify_jwt = false
+
+[functions.match-cofounders]
+verify_jwt = false
