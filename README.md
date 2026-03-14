@@ -188,6 +188,6 @@ Possible future enhancements include:
 
 ### 🔗 Project Links
 
-🌐 Live Demo: https://startuplaunch-one.vercel.app
+### 🌐 Live Demo: https://startuplaunch-one.vercel.app
 
-📦 GitHub Repository: https://github.com/krunalborad/StartupLaunch
+### 📦 GitHub Repository: https://github.com/krunalborad/StartupLaunch
